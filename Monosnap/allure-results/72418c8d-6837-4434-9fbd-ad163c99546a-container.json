@@ -1,0 +1,1 @@
+{"uuid":"72418c8d-6837-4434-9fbd-ad163c99546a","name":"Monosnap","children":["a4b5d58b-cff5-47b0-ae5e-a14bd451f45a"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1607680161061,"stop":1607680173646}],"links":[],"start":1607680120937,"stop":1607680173647}
