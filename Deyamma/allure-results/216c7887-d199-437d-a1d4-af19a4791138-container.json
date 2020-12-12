@@ -1,0 +1,1 @@
+{"uuid":"216c7887-d199-437d-a1d4-af19a4791138","name":"Deyamma","children":["f7e4f127-9747-40a0-bb94-047cd33611d1"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1607502485711,"stop":1607502496658}],"links":[],"start":1607502451703,"stop":1607502496660}
